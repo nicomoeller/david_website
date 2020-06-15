@@ -1,0 +1,114 @@
+.clearfix {
+    clear: both;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    background-color: rgb(200, 200, 200)
+}
+
+p {
+    line-height: 140%;
+}
+
+.container {
+    width: 70%;
+    min-width: 450px;
+    max-width: 700px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        margin-bottom: 0px;
+    padding: 15px;
+    border: 2px solid rgb(150, 150, 150);
+    background-color: rgb(255, 255, 255);
+}
+
+.container h1 {
+    color: rgb(120, 100, 130);
+    margin: 0px;
+}
+
+.breite-1,
+.breite-2,
+.breite-3,
+.breite-4,
+.breite-5,
+.breite-6,
+.breite-7,
+.breite-8,
+.breite-9,
+.breite-10,
+.breite-11,
+.breite-12 {
+    float: left;
+}
+
+.breite-1 {
+    width: 8.333333%;
+}
+
+.breite-2 {
+    width: 16.666666%;
+}
+
+.breite-3 {
+    width: 25%;
+}
+
+.breite-4 {
+    width: 33.3333333%;
+}
+
+.breite-5 {
+    width: 41.66666667%;
+}
+
+.breite-6 {
+    width: 50%;
+}
+
+.breite-7 {
+    width: 58.333333%;
+}
+
+.breite-8 {
+    width: 66.6666667%;
+}
+
+.breite-9 {
+    width: 75%;
+}
+
+.breite-10 {
+    width: 83.333333%;
+}
+
+.breite-11 {
+    width: 91.6666667%;
+}
+
+.breite-12 {
+    width: 100%;
+}
+
+.nav {
+    float: right;
+    padding: 5px;
+}
+
+.nav_footer {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px; 
+}
+
+.image {
+    max-width: 100%;
+}
+
+.logo {
+    max-width: 50px;
+}
+
