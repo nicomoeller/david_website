@@ -4,7 +4,7 @@ body {
 }
 
 .header {
-    height: 620px;
+    height: 80vh;
     background-image: url(../img/header-background2.jpg);
     background-size: cover;
     background-position: 20% 60%;
@@ -87,7 +87,7 @@ body {
 .services i {
     font-size: 1300%;
     color: #222222;
-    margin-left: 20px;
+    margin-left: 50px;
     text-align: center;
     margin-top: -3%;
 }
