@@ -147,3 +147,23 @@ body {
 .row {
     margin-top: 40px;
 }
+
+.kundenlogos {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f6f6f6;
+    
+}
+
+.logo-container1,
+.logo-container2,
+.logo-container3,
+.logo-container4 {
+    width: 200px;
+    height: 100px;
+
+}
+
+.kundenlogos img {
+    align-self: center;
+}
